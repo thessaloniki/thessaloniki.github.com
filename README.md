@@ -1,4 +1,4 @@
-thessaloniki.github.com
+Thessaloniki User Pages
 =======================
 
-Thessaloniki user pages
+This is the repository for the user pages of the Thessaloniki organization
